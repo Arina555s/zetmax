@@ -29,4 +29,4 @@
 
 [* Нажмите чтобы открыть сайт](https://arinawebsite.github.io/zetmax/)
 
-![Изображение](../website/img/sites/zets.webp)
+![Изображение](/img/zets.webp)
